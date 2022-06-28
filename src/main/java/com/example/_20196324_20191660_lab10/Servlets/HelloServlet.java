@@ -1,4 +1,4 @@
-package com.example._20196324_20191660_lab10;
+package com.example._20196324_20191660_lab10.Servlets;
 
 import java.io.*;
 import javax.servlet.http.*;
